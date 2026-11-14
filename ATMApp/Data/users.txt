@@ -1,0 +1,5 @@
+fatih|1234|10000
+ahmet|5678|5000
+mehmet|1111|7500
+
+//Dosyanın her satırı şu formatta tutulur: username|pin|balance
