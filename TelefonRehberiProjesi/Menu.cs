@@ -1,4 +1,4 @@
-namespace TelefonRehberi;
+namespace TelefonRehberiProjesi;
 
 public class Menu
 {
